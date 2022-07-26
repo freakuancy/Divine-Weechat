@@ -2,11 +2,11 @@
 
 What is it?
 ------------
-A nice weechat theme.
+A clean, dark weechat theme.
 
-![Screenshot_2022-07-25_18-20-02](https://user-images.githubusercontent.com/51457416/180902368-d9a086b1-0320-4a1d-8ace-0a9a8b11652a.png)
-
-Installation
+![divweechat](https://user-images.githubusercontent.com/51457416/180911146-b248771e-d86b-497d-ae5e-08b68d43d97a.png)
+ 
+ Installation
 -------------
 Download to your ~/.config/weechat directory.
 I'll figure out how to package this up for automatic install soon.
