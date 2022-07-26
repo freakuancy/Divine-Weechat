@@ -9,4 +9,8 @@ A clean, dark weechat theme.
  Installation
 -------------
 Download to your ~/.config/weechat directory.
+```shell
+git clone http://github.com/freakuancy/Divine-Weechat ~/.config/weechat/
+```
+
 I'll figure out how to package this up for automatic install soon.
